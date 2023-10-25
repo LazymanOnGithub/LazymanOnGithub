@@ -1,5 +1,4 @@
-### Hi there 👋
-
+[![Lazyman On Github](https://github-readme-stats.vercel.app/api?username=LazymanOnGithub)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **LazymanOnGithub/LazymanOnGithub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
